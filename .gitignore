@@ -1,3 +1,9 @@
+# specific to this repo
+deutschl/
+.DS_Store
+runs/
+_model_*
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
